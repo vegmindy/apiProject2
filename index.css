@@ -1,0 +1,24 @@
+h3 {
+    font-size: small;
+}
+
+.container {
+    height: 10vh;
+}
+
+.box {
+    height: 15vh;
+}
+
+#ideas {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.belowHeader {
+    margin: 2em;
+}
